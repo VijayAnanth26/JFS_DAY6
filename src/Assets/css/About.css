@@ -1,0 +1,44 @@
+
+.about-page {
+  margin: 20px;
+}
+
+.about-page header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.about-page h1 {
+  font-size: 24px;
+}
+
+.about-page main section {
+  margin-bottom: 30px;
+  background-color: #f5f5f5;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.about-page h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.about-page p {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.about-page button.btn-primary {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.about-page button.btn-primary:hover {
+  background-color: #0056b3;
+}

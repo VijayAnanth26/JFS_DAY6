@@ -1,0 +1,40 @@
+
+.home-page {
+  margin: 20px;
+}
+
+.home-page header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.home-page h1 {
+  font-size: 24px;
+}
+
+.home-page p {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.home-page main {
+  margin-bottom: 20px;
+}
+
+.home-page h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f5f5f5;
+}
+.home-btn {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+

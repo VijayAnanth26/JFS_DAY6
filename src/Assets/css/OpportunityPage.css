@@ -1,0 +1,54 @@
+.opportunity-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .opportunity-page header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .opportunity-page h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .opportunity-page main {
+    margin-bottom: 40px;
+  }
+  
+  .opportunity-details {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .opportunity-details img {
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .opportunity-page h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .opportunity-page p {
+    color: #777;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .opportunity-page ul {
+    margin-bottom: 10px;
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .opportunity-page footer {
+    text-align: center;
+    color: #888;
+    font-size: 14px;
+  }
+  

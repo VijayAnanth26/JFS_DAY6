@@ -1,0 +1,68 @@
+.profile {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  p {
+    margin-bottom: 10px;
+    color: #555;
+  }
+  
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  ol {
+    padding-left: 20px;
+  }
+  
+  .skills li,
+  .volunteer-experience li {
+    margin-bottom: 5px;
+  }
+  
+  .skills li:before,
+  .volunteer-experience li:before {
+    content: "\2022";
+    margin-right: 5px;
+    color: #333;
+  }
+  
+  .interests li {
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color: #e0e0e0;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: #333;
+  }
+  
+  .availability p,
+  .additional-info p,
+  .references p,
+  .contact p {
+    margin-bottom: 10px;
+    color: #555;
+    font-style: italic;
+  }
+  
+  .contact p:last-child {
+    margin-bottom: 0;
+  }

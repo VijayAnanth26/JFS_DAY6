@@ -1,0 +1,47 @@
+.volunteer-search-and-signup {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .volunteer-search-and-signup h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .volunteer-search-and-signup input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 20px;
+  }
+  
+  .volunteer-opportunity {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .volunteer-opportunity h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .volunteer-opportunity p {
+    margin-bottom: 5px;
+  }
+  
+  /* .volunteer-opportunity button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .volunteer-opportunity button:hover {
+    background-color: #45a049;
+  } */
+  

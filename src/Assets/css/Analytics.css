@@ -1,0 +1,21 @@
+.analytics-container {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  .analytics-container h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .metrics, .hours-tracking, .event-impact, .custom-reports {
+    margin-bottom: 20px;
+  }
+  
+  .metrics h2, .hours-tracking h2, .event-impact h2, .custom-reports h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  

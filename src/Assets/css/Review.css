@@ -1,0 +1,44 @@
+.ratings-and-reviews {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .ratings-and-reviews h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .reviews-list {
+    margin-bottom: 20px;
+  }
+  
+  .review {
+    background-color: #f2f2f2;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .rating {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .comment {
+    margin-bottom: 0;
+  }
+  
+  .add-review label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .add-review select,
+  .add-review textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
